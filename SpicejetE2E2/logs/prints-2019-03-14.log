@@ -1,0 +1,20 @@
+17:32:59.784 [main] ERROR resources.Base - Could not find the desired date
+17:33:00.080 [main] INFO  resources.Base - Successfully clicked on the desired day
+17:33:00.144 [main] DEBUG resources.Base - selecting the currency type
+17:33:00.292 [main] INFO  resources.Base - Successfully selected currency type
+17:33:07.960 [main] INFO  resources.Base - Successfully clicked on the go button
+17:33:08.423 [main] INFO  resources.Base - Successfully closed the browser
+17:41:22.611 [main] INFO  resources.Base - driver initialized successfully
+17:41:22.643 [main] DEBUG resources.Base - Selecting the senior citizen
+17:41:22.816 [main] INFO  resources.Base - Checked on the checbox successfully
+17:41:22.820 [main] DEBUG resources.Base - Clicking on the check field
+17:41:23.060 [main] INFO  resources.Base - Successfully clicked on the from field
+17:41:23.064 [main] DEBUG resources.Base - Selecting the 'from city'
+17:41:23.748 [main] INFO  resources.Base - Successfully selected the city
+17:41:23.748 [main] DEBUG resources.Base - Selecting the 'from city'
+17:41:23.988 [main] INFO  resources.Base - Successfully selected the destination city
+17:41:24.072 [main] INFO  resources.Base - 16
+17:41:24.164 [main] ERROR resources.Base - Could not find the desired date
+17:41:24.240 [main] ERROR resources.Base - Could not find the desired date
+17:41:24.312 [main] ERROR resources.Base - Could not find the desired date
+17:41:24.610 [main] INFO  resources.Base - Successfully clicked on the desired day

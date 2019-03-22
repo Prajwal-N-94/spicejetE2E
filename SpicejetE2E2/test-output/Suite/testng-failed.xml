@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.spiceJet.test.Listenerclass"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.spiceJet.test.HomepageTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="invokeHome"/>
+        </methods>
+      </class> <!-- com.spiceJet.test.HomepageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
